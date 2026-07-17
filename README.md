@@ -12,4 +12,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0183-customers-who-never-order](https://github.com/PranitUkhalkar/SQL_practice-/tree/master/0183-customers-who-never-order) |
 | [0196-delete-duplicate-emails](https://github.com/PranitUkhalkar/SQL_practice-/tree/master/0196-delete-duplicate-emails) |
 | [1280-students-and-examinations](https://github.com/PranitUkhalkar/SQL_practice-/tree/master/1280-students-and-examinations) |
+| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/PranitUkhalkar/SQL_practice-/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 <!---LeetCode Topics End-->
