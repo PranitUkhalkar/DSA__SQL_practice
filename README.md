@@ -14,4 +14,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1280-students-and-examinations](https://github.com/PranitUkhalkar/SQL_practice-/tree/master/1280-students-and-examinations) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/PranitUkhalkar/SQL_practice-/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1407-top-travellers](https://github.com/PranitUkhalkar/SQL_practice-/tree/master/1407-top-travellers) |
+| [1484-group-sold-products-by-the-date](https://github.com/PranitUkhalkar/SQL_practice-/tree/master/1484-group-sold-products-by-the-date) |
 <!---LeetCode Topics End-->
