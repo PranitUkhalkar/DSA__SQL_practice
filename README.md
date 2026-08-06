@@ -27,4 +27,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/PranitUkhalkar/SQL_practice-/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1587-bank-account-summary-ii](https://github.com/PranitUkhalkar/SQL_practice-/tree/master/1587-bank-account-summary-ii) |
 | [1683-invalid-tweets](https://github.com/PranitUkhalkar/SQL_practice-/tree/master/1683-invalid-tweets) |
+## Array
+|  |
+| ------- |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/PranitUkhalkar/SQL_practice-/tree/master/1295-find-numbers-with-even-number-of-digits) |
+## Math
+|  |
+| ------- |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/PranitUkhalkar/SQL_practice-/tree/master/1295-find-numbers-with-even-number-of-digits) |
 <!---LeetCode Topics End-->
