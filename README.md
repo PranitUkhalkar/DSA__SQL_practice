@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/PranitUkhalkar/SQL_practice-/tree/master/0001-two-sum) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/PranitUkhalkar/SQL_practice-/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1672-richest-customer-wealth](https://github.com/PranitUkhalkar/SQL_practice-/tree/master/1672-richest-customer-wealth) |
 ## Math
@@ -40,4 +41,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/PranitUkhalkar/SQL_practice-/tree/master/1672-richest-customer-wealth) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/PranitUkhalkar/SQL_practice-/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
