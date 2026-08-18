@@ -4,3 +4,19 @@ FROM Project p
 left join Employee e
 ON p.employee_id = e.employee_id
 group by p.project_id
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
