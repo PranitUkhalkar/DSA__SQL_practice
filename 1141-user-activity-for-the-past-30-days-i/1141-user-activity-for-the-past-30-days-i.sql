@@ -21,4 +21,3 @@ GROUP BY activity_date;
 
 
 
-
