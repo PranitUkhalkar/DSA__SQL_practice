@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/PranitUkhalkar/SQL_practice-/tree/master/0001-two-sum) |
 | [0048-rotate-image](https://github.com/PranitUkhalkar/SQL_practice-/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/PranitUkhalkar/SQL_practice-/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/PranitUkhalkar/SQL_practice-/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PranitUkhalkar/SQL_practice-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/PranitUkhalkar/SQL_practice-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0189-rotate-array](https://github.com/PranitUkhalkar/SQL_practice-/tree/master/0189-rotate-array) |
@@ -109,10 +110,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/PranitUkhalkar/SQL_practice-/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/PranitUkhalkar/SQL_practice-/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/PranitUkhalkar/SQL_practice-/tree/master/0283-move-zeroes) |
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/PranitUkhalkar/SQL_practice-/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/PranitUkhalkar/SQL_practice-/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
