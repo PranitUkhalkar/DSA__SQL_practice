@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/PranitUkhalkar/SQL_practice-/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/PranitUkhalkar/SQL_practice-/tree/master/0485-max-consecutive-ones) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/PranitUkhalkar/SQL_practice-/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/PranitUkhalkar/SQL_practice-/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1672-richest-customer-wealth](https://github.com/PranitUkhalkar/SQL_practice-/tree/master/1672-richest-customer-wealth) |
 ## Math
 |  |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/PranitUkhalkar/SQL_practice-/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/PranitUkhalkar/SQL_practice-/tree/master/0217-contains-duplicate) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/PranitUkhalkar/SQL_practice-/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -115,9 +117,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/PranitUkhalkar/SQL_practice-/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/PranitUkhalkar/SQL_practice-/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/PranitUkhalkar/SQL_practice-/tree/master/0283-move-zeroes) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/PranitUkhalkar/SQL_practice-/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/PranitUkhalkar/SQL_practice-/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/PranitUkhalkar/SQL_practice-/tree/master/0217-contains-duplicate) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/PranitUkhalkar/SQL_practice-/tree/master/1346-check-if-n-and-its-double-exist) |
+## Binary Search
+|  |
+| ------- |
+| [1346-check-if-n-and-its-double-exist](https://github.com/PranitUkhalkar/SQL_practice-/tree/master/1346-check-if-n-and-its-double-exist) |
 <!---LeetCode Topics End-->
