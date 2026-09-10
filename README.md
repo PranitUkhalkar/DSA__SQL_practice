@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/PranitUkhalkar/SQL_practice-/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/PranitUkhalkar/SQL_practice-/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/PranitUkhalkar/SQL_practice-/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/PranitUkhalkar/SQL_practice-/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/PranitUkhalkar/SQL_practice-/tree/master/0283-move-zeroes) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/PranitUkhalkar/SQL_practice-/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -130,4 +131,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1346-check-if-n-and-its-double-exist](https://github.com/PranitUkhalkar/SQL_practice-/tree/master/1346-check-if-n-and-its-double-exist) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/PranitUkhalkar/SQL_practice-/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
