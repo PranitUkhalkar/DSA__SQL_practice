@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/PranitUkhalkar/SQL_practice-/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/PranitUkhalkar/SQL_practice-/tree/master/0485-max-consecutive-ones) |
 | [0941-valid-mountain-array](https://github.com/PranitUkhalkar/SQL_practice-/tree/master/0941-valid-mountain-array) |
+| [1089-duplicate-zeros](https://github.com/PranitUkhalkar/SQL_practice-/tree/master/1089-duplicate-zeros) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/PranitUkhalkar/SQL_practice-/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/PranitUkhalkar/SQL_practice-/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1672-richest-customer-wealth](https://github.com/PranitUkhalkar/SQL_practice-/tree/master/1672-richest-customer-wealth) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/PranitUkhalkar/SQL_practice-/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/PranitUkhalkar/SQL_practice-/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/PranitUkhalkar/SQL_practice-/tree/master/0283-move-zeroes) |
+| [1089-duplicate-zeros](https://github.com/PranitUkhalkar/SQL_practice-/tree/master/1089-duplicate-zeros) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/PranitUkhalkar/SQL_practice-/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Sorting
 |  |
